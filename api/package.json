@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api para desplegar en docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mfernandaramirez@gmail.com"
+  },
+  "author": "Fernanda Ramírez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^23.9.0"
+  }
+}
